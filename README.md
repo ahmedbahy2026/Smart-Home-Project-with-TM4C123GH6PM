@@ -75,9 +75,9 @@ This project demonstrates a Smart Home Automation System that integrates microco
 
 ## Team Members
 
-1. Ahmed Bahy Youssef
-2. Ahmed Ragab Mahmoud
-3. Abdelrahman Mahmoud Mohammed
+1. [Ahmed Bahy Youssef](https://github.com/ahmedbahy2026)
+2. [Ahmed Ragab Mahmoud](https://github.com/AAhmeddRRagabb)
+3. [Abdelrahman Mahmoud Mohammed](https://github.com/eltohamy3)
 
 ---
 
@@ -97,6 +97,9 @@ This project demonstrates a Smart Home Automation System that integrates microco
 ---
 
 ## Installation
-- Clone this repository:
+1. Clone this repository:
    ```bash
    git clone git@github.com:ahmedbahy2026/Smart-Home-Project-with-TM4C123GH6PM.git
+2. Connect your Launchpad and other components as per the circuit diagram.
+3. Open the project in Code Composer Studio.
+4. Build and flash the project to your Launchpad.
